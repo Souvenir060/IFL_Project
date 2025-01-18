@@ -24,3 +24,25 @@ You can install all the dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
+
+How to Run
+Clone the repository to your local machine:
+
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+
+Run the IFL_main.py script to start the experiment:
+```bash
+python IFL_main.py
+Alternatively, you can open and run the IFL_main.ipynb notebook in Google Colab or Jupyter Notebook.
+
+Dataset
+The dataset used for the experiments is VRIC.zip, which is located in the data/ folder. If you don't have the dataset, you can request it or use a similar dataset for your experiments.
+
+Unzip the VRIC.zip file to the data/ folder.
+
+The code will automatically load the dataset and partition it for Federated Learning experiments.
+
+Results
+This project generates evaluation metrics such as F1-score. Additionally, charts and figures generated from these results are included in the paper, but not stored in the GitHub repository.
