@@ -24,17 +24,22 @@ You can install all the dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
+```bash
 
 How to Run
-Clone the repository to your local machine:
+```bash
+Clone the repository to your local machine: https://github.com/Souvenir060/IFL_Project.git
+```bash
 
 Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+```bash
 
 Run the IFL_main.py script to start the experiment:
 ```bash
 python IFL_main.py
+```bash
 Alternatively, you can open and run the IFL_main.ipynb notebook in Google Colab or Jupyter Notebook.
 
 Dataset
