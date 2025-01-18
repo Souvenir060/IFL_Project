@@ -42,10 +42,15 @@ python IFL_main.py
 ```bash
 Alternatively, you can open and run the IFL_main.ipynb notebook in Google Colab or Jupyter Notebook.
 
-Dataset
-The dataset used for the experiments is VRIC.zip, which is located in the data/ folder. If you don't have the dataset, you can request it or use a similar dataset for your experiments.
+## Dataset
 
-Unzip the VRIC.zip file to the data/ folder.
+The dataset used in this project is **VRIC.zip**. Due to its large size, it is not included in this repository. You can download it from the following link:
+
+[Download VRIC.zip](https://qmul-vric.github.io/index.html)
+
+Once downloaded, place the dataset in the `data/` directory.
+
+Alternatively, you can use any similar dataset, and the code will work as long as you adjust the paths accordingly.
 
 The code will automatically load the dataset and partition it for Federated Learning experiments.
 
