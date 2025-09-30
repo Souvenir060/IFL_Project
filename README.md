@@ -22,7 +22,7 @@ The following Python packages are required to run the code:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Souvenir060/IFL_Project.git)
 cd IFL_Project
 ```
 
