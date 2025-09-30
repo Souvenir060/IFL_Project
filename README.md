@@ -21,17 +21,25 @@ The following Python packages are required to run the code:
 - torchvision
 
 You can install all the dependencies by running the following command:
-
+'''bash
 pip install -r requirements.txt
-
+'''
 
 How to Run
-1. Clone the repository to your local machine: https://github.com/Souvenir060/IFL_Project.git
+1. Clone the repository to your local machine:
+'''bash
+git clone https://github.com/Souvenir060/IFL_Project.git
+'''
 
-2. Install the required dependencies: pip install -r requirements.txt
+3. Install the required dependencies:
+'''bash
+pip install -r requirements.txt
+'''
 
-3. Run the IFL_main.py script to start the experiment:
+6. Run the IFL_main.py script to start the experiment:
+'''bash
 python IFL_main.py
+'''
 Alternatively, you can open and run the IFL_main.ipynb notebook in Google Colab or Jupyter Notebook.
 
 ## Dataset
