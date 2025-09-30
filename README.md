@@ -22,24 +22,16 @@ The following Python packages are required to run the code:
 
 You can install all the dependencies by running the following command:
 
-```bash
 pip install -r requirements.txt
-```bash
+
 
 How to Run
-```bash
-Clone the repository to your local machine: https://github.com/Souvenir060/IFL_Project.git
-```bash
+1. Clone the repository to your local machine: https://github.com/Souvenir060/IFL_Project.git
 
-Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```bash
+2. Install the required dependencies: pip install -r requirements.txt
 
-Run the IFL_main.py script to start the experiment:
-```bash
+3. Run the IFL_main.py script to start the experiment:
 python IFL_main.py
-```bash
 Alternatively, you can open and run the IFL_main.ipynb notebook in Google Colab or Jupyter Notebook.
 
 ## Dataset
