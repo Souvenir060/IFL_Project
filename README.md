@@ -46,13 +46,10 @@ Alternatively, you can open and run the IFL_main.ipynb notebook in Google Colab 
 
 The dataset used in this project is **VRIC.zip**. Due to its large size, it is not included in this repository. You can download it from the following link:
 
-[Download VRIC.zip](https://qmul-vric.github.io/index.html)
+https://qmul-vric.github.io/index.html
 
 Once downloaded, place the dataset in the `data/` directory.
 
 Alternatively, you can use any similar dataset, and the code will work as long as you adjust the paths accordingly.
 
 The code will automatically load the dataset and partition it for Federated Learning experiments.
-
-Results
-This project generates evaluation metrics such as F1-score. Additionally, charts and figures generated from these results are included in the paper, but not stored in the GitHub repository.
